@@ -2,9 +2,13 @@
 Playground for API dev.
 
 ################################################
+
 Curl Commands to access the PUT, POST and DELETE 
+
 -X : Specifies the HTTP request type 
+
 -H : Header type 
+
 -d : data 
 
 For "POST" :
